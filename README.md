@@ -1,5 +1,7 @@
 # Elevator Based Packaging System
 
+https://github.com/user-attachments/assets/fdb4cbc1-ee48-48c6-b3ea-5a5390653b9f
+
 ## Introduction
 
 Automation technology encompasses several specialties, drawing on various engineering sciences. According to the DIN 19223 standard, an automaton is an artificial system that behaves in specific ways by relating input commands to system states to achieve the necessary outputs for task completion. Modern automated processes require three key components:
@@ -48,9 +50,21 @@ The Factory I/O software provides default templates for some processes, includin
 ## Figures
 
 - **Figure 1**: Plan of a freight elevator in FACTORY I/O.
+
+![Screenshot (189)](https://github.com/user-attachments/assets/a0383df8-3825-48cc-b121-7a62587b270f)
+
 - **Figure 2**: Inputs and outputs of the Siemens S7-PLCSIM PLC in FACTORY I/O.
-- **Figure 3**: SIMATIC S7-1200 PLC in TIA Portal V12.
+
+![Screenshot (190)](https://github.com/user-attachments/assets/37588fb7-d7a5-42f8-a9ab-3c113afcbfbf)
+
+- **Figure 3**: SIMATIC S7-1200 PLC in TIA Portal.
+
+![Screenshot (188)](https://github.com/user-attachments/assets/ed01fbfe-7a1c-4e3e-9d42-f36ef807e9e2)
+
+
 - **Figure 4**: Program loaded into S7 PLCSIM.
+
+![Screenshot (192)](https://github.com/user-attachments/assets/9acc88a0-7b54-4d9c-bcc8-5ce39cd0399e)
 
 ## Conclusion
 
